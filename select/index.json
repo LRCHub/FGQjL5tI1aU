@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ヒアソビ",
+  "base_artist": "かめりあ",
+  "createdAt": "2025-12-26T00:52:41.338081Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒアソビ (feat. 初音ミク)",
+      "artist": "かめりあ",
+      "has_synced": true,
+      "path": "select/01_ヒアソビ_(feat._初音ミク)_かめりあ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヒアソビ",
+      "artist": "かめりあ feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/02_ヒアソビ_かめりあ_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヒアソビ (feat. 初音ミク)",
+      "artist": "Camellia",
+      "has_synced": true,
+      "path": "select/03_ヒアソビ_(feat._初音ミク)_Camellia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヒアソビ",
+      "artist": "かめりあ",
+      "has_synced": true,
+      "path": "select/04_ヒアソビ_かめりあ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヒアソビ",
+      "artist": "Camellia",
+      "has_synced": true,
+      "path": "select/05_ヒアソビ_Camellia.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ヒアソビ (feat. 初音ミク) 【Electroswing】",
+      "artist": "かめりあ",
+      "has_synced": false,
+      "path": "select/06_ヒアソビ_(feat._初音ミク)_【Electroswing】_かめりあ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ヒアソビ (feat. 初�����ク)",
+      "artist": "camellia",
+      "has_synced": true,
+      "path": "select/07_ヒアソビ_(feat._初�����ク)_camellia.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ヒアソビ (feat. 初音ミク)",
+      "artist": "かめりあ(Camellia)",
+      "has_synced": true,
+      "path": "select/08_ヒアソビ_(feat._初音ミク)_かめりあ(Camellia).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒアソビ",
+      "artist": "かめりあ",
+      "has_synced": false,
+      "path": "select/pl_01_ヒアソビ_かめりあ.txt"
+    }
+  ]
+}
